@@ -9,3 +9,4 @@ The utility is intended to securely transfer encrypted database backups to the a
 Google account authorization is used solely to support backup storage and recovery operations.
 
 This utility is not offered as a public service.
+[Privacy Policy](https://agrawalkunal2.github.io/privacy/)
